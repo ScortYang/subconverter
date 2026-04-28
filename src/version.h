@@ -1,6 +1,6 @@
 #ifndef VERSION_H_INCLUDED
 #define VERSION_H_INCLUDED
 
-#define VERSION "v0.9.1-mihomo"
+#define VERSION "v1.0"
 
 #endif // VERSION_H_INCLUDED
