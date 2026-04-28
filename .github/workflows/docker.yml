@@ -10,8 +10,8 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  REGISTRY_IMAGE: ScortYang/subconverter
-  GHCR_IMAGE: ghcr.io/ScortYang/subconverter
+  REGISTRY_IMAGE: scortyang/subconverter
+  GHCR_IMAGE: ghcr.io/scortyang/subconverter
 
 jobs:
   build-dockerhub:
